@@ -41,7 +41,7 @@ Check the [installation notes](#installation) for more details on how to install
     ```
     This command pops the top directory from the stack and changes to that directory.
 
-For more details, check the [getting started guide](#useful-resources).
+For more details, check the [getting started guide](#References).
 
 ## Configuration
 
