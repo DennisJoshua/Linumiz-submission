@@ -83,8 +83,3 @@ The program does not require any special configuration. It uses shared memory to
 - Size of the buffer, Maximum size is 4 and the byte length for each element is 1024. 
 - To cross verify it run the `ipcs -a` command and get to know the total byte size the shared memory permits. In my case it shows 4100, So totally I have used 4096 from the shared memory
 - Unlike pushd it can't push the current working directory when the stack is accessed for the first time other than that it    works well 
-
-
-
-
-Contributions and feedback are always welcome.
